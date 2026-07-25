@@ -1,37 +1,29 @@
 ---
-title: "rulerom.com — 独立项目生态系统"
-description: "由哲学统一的独立项目目录：decima, philo, audrey, c-safe, bakery, pki"
-date: 2026-03-15
-tags: [生态系统，项目，主权，验证]
+title: "Rule-ROM 生态系统"
+description: "Rule-ROM 独立研究、软件和应用项目地图"
+date: 2026-07-25
+tags: [生态系统, 项目, 验证, Decima, Whaler]
 lang: zh
 ---
 
-# rulerom.com :: 由哲学统一的独立项目目录：
+# Rule-ROM 生态系统
 
-«Theodicy in code. Suffering = gradient.»
+Rule-ROM 不是一个单体产品，而是具有不同合约和发布边界的项目注册表。
 
-每个项目都是独立的。所有项目都是可验证的。整个生态系统是开放的。
+| 域 | 作用 | 公开边界 |
+| --- | --- | --- |
+| [Decima-8](https://decima.rulerom.com/zh/) | 神经形态 runtime 与 `.d8p` 格式 | v3 物理、源代码、IDE、benchmark |
+| [Whaler](https://whaler.rulerom.com/) | 市场应用系统 | 架构、replay、结果与运维 |
+| [Philo](https://philo.rulerom.com/zh/) | 架构的意义层 | baker、个性、记忆与确定性 |
+| [Bakery](https://bakery.rulerom.com/zh/) | `.d8p` 构建工具 | 工具合约；应用个性配方可以保持私有 |
+| [PKI](https://pki.rulerom.com/zh/) | 工件签名与来源 | 作者身份与完整性验证 |
+| [C-SAFE](https://c-safe.rulerom.com/zh/) | C 代码分析与加固 | 审计工具 |
+| [Audrey](https://audrey.rulerom.com/zh/) | 电子与声音 | 实验和工程笔记 |
 
----
+## 边界原则
 
-**🗺️ 架构：Hub → Project → Depth**
-
-- [rulerom.com](https://rulerom.com/zh/) (Hub)
-- [decima.rulerom.com](https://decima.rulerom.com/zh/) → 神经形态架构、IDE、基准测试
-- [philo.rulerom.com](https://philo.rulerom.com/zh/) → 哲学：主体性走廊、接力、神正论
-- [audrey.rulerom.com](https://audrey.rulerom.com/zh/) → 真空基底上的音频实验
-- [c-safe.rulerom.com](https://c-safe.rulerom.com/zh/) → 安全：验证、审计、独立栈
-- [bakery.rulerom.com](https://bakery.rulerom.com/zh/) → 烘焙工具：全球最佳烘焙实践
-- [pki.rulerom.com](https://pki.rulerom.com/zh/) → 签名基础设施：Ed25519、验证、注册表
-
----
-
-## 原则：
-
-- 一个项目 = 一个子域名 = 清晰的边界
-- 独立部署、独立文档
-- 统一的哲学、统一的验证标准
-
----
-
-## Founded by [🌿 Intent Garden Org](https://intent-garden.org/main_zh/)
+- 一个项目、一个域、一个合约所有者；
+- 可复现声明附带代码、tape、hash 或报告；
+- 研究结果不会被描述为 production；
+- 开放架构可以与私有应用 know-how 共存；
+- 客户 secret 和交易 key 永远不属于注册表。

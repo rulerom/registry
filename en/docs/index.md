@@ -2,15 +2,15 @@
 
 <div class="rom-hero">
     <h1 class="rom-hero-title">Rule-ROM</h1>
-    <p class="rom-hero-subtitle">Global Registry of Executable Intentions</p>
+    <p class="rom-hero-subtitle">Registry of verifiable engineering systems</p>
 </div>
 
 <div class="rom-mission">
     <p class="rom-mission-text">
-        <strong>Synchronization point for developers, scientists, and business.</strong>
+        <strong>A map of projects, boundaries, status, and verifiable artifacts.</strong>
     </p>
     <p class="rom-mission-text" style="margin-top: 1rem;">
-        An expandable federation of technical standards. We create a universal control bus — from C source code to neuromorphic silicon and industrial automation. Any technology where "best practices" and safety rules can be formalized can be integrated into the Registry.
+        Rule-ROM connects research, runtimes, applied products, and trust infrastructure. Each domain owns its contract and publication boundary: an open specification does not imply disclosure of private bakeries, trading logic, or client data.
     </p>
 </div>
 
@@ -22,21 +22,28 @@
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🐉</div>
         <h3 class="rom-domain-title">Decima</h3>
-        <p class="rom-domain-desc">Neuromorphic substrate with PHASE_READ/WRITE at 20µs. Hardware that breathes.</p>
+        <p class="rom-domain-desc">A deterministic neuromorphic machine: shared VSB, local integrators, event memory, and the .d8p format.</p>
         <a href="https://decima.rulerom.com/en/" class="rom-domain-link">decima.rulerom.com</a>
     </div>
-    
+
+    <div class="rom-domain-item">
+        <div class="rom-domain-icon">🐋</div>
+        <h3 class="rom-domain-title">Whaler</h3>
+        <p class="rom-domain-desc">The first applied Decima-8 family: rare market-imbalance events, a risk director, and multi-tenant execution.</p>
+        <a href="https://whaler.rulerom.com/" class="rom-domain-link">whaler.rulerom.com</a>
+    </div>
+
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🧭</div>
         <h3 class="rom-domain-title">Philo</h3>
-        <p class="rom-domain-desc">Philosophy: the corridor of subjectivity, the relay race, theodicy</p>
+        <p class="rom-domain-desc">Architecture philosophy: baker, personality, shared tape, event memory, determinism, and the limits of analogy.</p>
         <a href="https://philo.rulerom.com/en/" class="rom-domain-link">philo.rulerom.com</a>
     </div>
 
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🧪</div>
         <h3 class="rom-domain-title">Bakery</h3>
-        <p class="rom-domain-desc">Deterministic personality baking. OCR, HFT, ASR — fast, dense, verified.</p>
+        <p class="rom-domain-desc">Baker tooling: assembly, static audit, reproducibility, and .d8p verification.</p>
         <a href="https://bakery.rulerom.com/en/" class="rom-domain-link">bakery.rulerom.com</a>
     </div>
     
