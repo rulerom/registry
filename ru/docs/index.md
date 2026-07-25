@@ -1,16 +1,14 @@
-# Rule-ROM Federation 🏛️
-
 <div class="rom-hero">
     <h1 class="rom-hero-title">Rule-ROM</h1>
-    <p class="rom-hero-subtitle">Глобальный реестр исполняемых намерений</p>
+    <p class="rom-hero-subtitle">Реестр проверяемых инженерных систем</p>
 </div>
 
 <div class="rom-mission">
     <p class="rom-mission-text">
-        <strong>Точка синхронизации разработчиков, ученых и бизнеса.</strong>
+        <strong>Карта проектов, их границ, статуса и проверяемых артефактов.</strong>
     </p>
     <p class="rom-mission-text" style="margin-top: 1rem;">
-        Это расширяемая федерация технических стандартов. Мы создаем универсальную шину управления — от исходного кода на Си до нейроморфного кремния и промышленной автоматики. Любой вид техники, где можно формализовать «лучшие практики» и правила безопасности, может быть интегрирован в Реестр.
+        Rule-ROM связывает исследования, runtime, прикладные продукты и инфраструктуру доверия. Каждый домен отвечает за собственный контракт и публикационную границу: открытая спецификация не означает раскрытие пекарни, торговой логики или клиентских данных.
     </p>
 </div>
 
@@ -22,21 +20,28 @@
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🐉</div>
         <h3 class="rom-domain-title">Decima</h3>
-        <p class="rom-domain-desc">Нейроморфный субстрат с PHASE_READ/WRITE на 20µs. Железо, которое дышит.</p>
+        <p class="rom-domain-desc">Детерминированная нейроморфная машина: общая VSB, локальные интеграторы, событийная память и формат .d8p.</p>
         <a href="https://decima.rulerom.com/ru/" class="rom-domain-link">decima.rulerom.com</a>
+    </div>
+
+    <div class="rom-domain-item">
+        <div class="rom-domain-icon">🐋</div>
+        <h3 class="rom-domain-title">Whaler</h3>
+        <p class="rom-domain-desc">Первое прикладное семейство Decima-8: фильтр редких событий рыночного дисбаланса, директор риска и мультитенантное исполнение.</p>
+        <a href="https://whaler.rulerom.com/" class="rom-domain-link">whaler.rulerom.com</a>
     </div>
 
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🧭</div>
         <h3 class="rom-domain-title">Philo</h3>
-        <p class="rom-domain-desc">Философия: коридор субъектности, эстафета, теодицея</p>
+        <p class="rom-domain-desc">Философия архитектуры: пекарь, личность, общая лента, событийная память, детерминизм и границы аналогий.</p>
         <a href="https://philo.rulerom.com/ru/" class="rom-domain-link">philo.rulerom.com</a>
     </div>
 
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🧪</div>
         <h3 class="rom-domain-title">Bakery</h3>
-        <p class="rom-domain-desc">Пропекание детерминированных личностей. OCR, HFT, ASR — быстро, плотно, проверено.</p>
+        <p class="rom-domain-desc">Инструменты пекаря: сборка, статический аудит, воспроизводимость и проверка .d8p.</p>
         <a href="https://bakery.rulerom.com/ru/" class="rom-domain-link">bakery.rulerom.com</a>
     </div>
 

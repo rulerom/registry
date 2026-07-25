@@ -1,16 +1,14 @@
-# Rule-ROM Federation 🏛️
-
 <div class="rom-hero">
     <h1 class="rom-hero-title">Rule-ROM</h1>
-    <p class="rom-hero-subtitle">可执行意图全球注册表</p>
+    <p class="rom-hero-subtitle">可验证工程系统注册表</p>
 </div>
 
 <div class="rom-mission">
     <p class="rom-mission-text">
-        <strong>开发者、科学家和企业的同步点。</strong>
+        <strong>项目、边界、状态与可验证工件的地图。</strong>
     </p>
     <p class="rom-mission-text" style="margin-top: 1rem;">
-        这是一个可扩展的技术标准联邦。我们创建通用控制总线——从 C 源代码到神经形态芯片和工业自动化。任何可以形式化"最佳实践"和安全规则的技术都可以集成到注册表中。
+        Rule-ROM 连接研究、runtime、应用产品与信任基础设施。每个域负责自己的合约和发布边界：开放规范并不意味着公开私有 baker、交易逻辑或客户数据。
     </p>
 </div>
 
@@ -22,21 +20,28 @@
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🐉</div>
         <h3 class="rom-domain-title">Decima</h3>
-        <p class="rom-domain-desc">神经形态基板，PHASE_READ/WRITE 20µs。会呼吸的硬件。</p>
+        <p class="rom-domain-desc">确定性神经形态机器：共享 VSB、局部积分器、事件记忆与 .d8p 格式。</p>
         <a href="https://decima.rulerom.com/zh/" class="rom-domain-link">decima.rulerom.com</a>
+    </div>
+
+    <div class="rom-domain-item">
+        <div class="rom-domain-icon">🐋</div>
+        <h3 class="rom-domain-title">Whaler</h3>
+        <p class="rom-domain-desc">第一个 Decima-8 应用系列：稀有市场失衡事件、风险 director 与多租户执行。</p>
+        <a href="https://whaler.rulerom.com/" class="rom-domain-link">whaler.rulerom.com</a>
     </div>
 
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🧭</div>
         <h3 class="rom-domain-title">Philo</h3>
-        <p class="rom-domain-desc">哲学：主体性的走廊、接力赛、神义论</p>
+        <p class="rom-domain-desc">架构哲学：baker、个性、共享 tape、事件记忆、确定性与类比边界。</p>
         <a href="https://philo.rulerom.com/zh/" class="rom-domain-link">philo.rulerom.com</a>
     </div>
 
     <div class="rom-domain-item">
         <div class="rom-domain-icon">🧪</div>
         <h3 class="rom-domain-title">Bakery</h3>
-        <p class="rom-domain-desc">确定性个性烘焙。OCR、HFT、ASR — 快速、密集、已验证。</p>
+        <p class="rom-domain-desc">Baker 工具：组装、静态审计、可复现性与 .d8p 验证。</p>
         <a href="https://bakery.rulerom.com/zh/" class="rom-domain-link">bakery.rulerom.com</a>
     </div>
     
