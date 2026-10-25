@@ -18,17 +18,17 @@
 
 <div class="rom-domains">
     <div class="rom-domain-item">
+        <div class="rom-domain-icon">🦊</div>
+        <h3 class="rom-domain-title">Liza</h3>
+        <p class="rom-domain-desc">Системный язык для переносимых вычислений с определённой семантикой и контролируемой стоимостью операций</p>
+        <a href="https://liza.rulerom.com/" class="rom-domain-link">liza.rulerom.com</a>
+    </div>
+
+    <div class="rom-domain-item">
         <div class="rom-domain-icon">🐉</div>
         <h3 class="rom-domain-title">Decima</h3>
         <p class="rom-domain-desc">Детерминированная нейроморфная машина: общая VSB, локальные интеграторы, событийная память и формат .d8p.</p>
         <a href="https://decima.rulerom.com/ru/" class="rom-domain-link">decima.rulerom.com</a>
-    </div>
-
-    <div class="rom-domain-item">
-        <div class="rom-domain-icon">🐋</div>
-        <h3 class="rom-domain-title">Whaler</h3>
-        <p class="rom-domain-desc">Первое прикладное семейство Decima-8: фильтр редких событий рыночного дисбаланса, директор риска и мультитенантное исполнение.</p>
-        <a href="https://whaler.rulerom.com/" class="rom-domain-link">whaler.rulerom.com</a>
     </div>
 
     <div class="rom-domain-item">
@@ -39,25 +39,12 @@
     </div>
 
     <div class="rom-domain-item">
-        <div class="rom-domain-icon">🧪</div>
-        <h3 class="rom-domain-title">Bakery</h3>
-        <p class="rom-domain-desc">Инструменты пекаря: сборка, статический аудит, воспроизводимость и проверка .d8p.</p>
-        <a href="https://bakery.rulerom.com/ru/" class="rom-domain-link">bakery.rulerom.com</a>
-    </div>
-
-    <div class="rom-domain-item">
         <div class="rom-domain-icon">🔈</div>
         <h3 class="rom-domain-title">Audrey</h3>
         <p class="rom-domain-desc">Аналоговая душа. Ламповая электроника, усилители, физика частот вне времени.</p>
         <a href="https://audrey.rulerom.com/ru/" class="rom-domain-link">audrey.rulerom.com</a>
     </div>
 
-    <div class="rom-domain-item">
-        <div class="rom-domain-icon">🌿</div>
-        <h3 class="rom-domain-title">C-SAFE</h3>
-        <p class="rom-domain-desc">Иммунизация Legacy: Clang AST + Garden-Core для детерминированного C кода.</p>
-        <a href="https://c-safe.rulerom.com/ru/" class="rom-domain-link">c-safe.rulerom.com</a>
-    </div>
 </div>
 
 ---
